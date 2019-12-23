@@ -1,6 +1,9 @@
 # action.yml
 name: "My first action of Hello World"
 description: "Greet someone and record the time"
+branding:
+  icon: "aperture"
+  color: "blue"
 inputs:
   who-to-greet: # id of input
     description: "Who to greet"
